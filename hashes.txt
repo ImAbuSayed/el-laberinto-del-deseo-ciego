@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - El laberinto del deseo ciego
+
+This log tracks the cryptographic history and versioning for the song **El laberinto del deseo ciego** (el-laberinto-del-deseo-ciego).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T21:09:46.029727 | `v1` | `5ae1a2266564abc538505999201786ceadca56632bbf2e7559c05915bd0690a0` | `baac07637a7d60ce532c1c3b92e2bbe83bc6bed4ef54a4466123cf93f9d68e05` | `2026-06-14_el-laberinto-del-deseo-ciego-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
